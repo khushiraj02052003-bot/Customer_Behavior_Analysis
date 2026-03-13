@@ -90,8 +90,6 @@ Generated actionable recommendations for marketing and customer retention
 
 Clone the repository
 
-git clone https://github.com/your-username/project-name.git
-
 Install required Python libraries
 
 pip install pandas numpy matplotlib seaborn
